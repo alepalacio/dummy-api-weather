@@ -1,0 +1,2 @@
+requests==2.21
+python-decouple >= 3.5, < 3.6.0
